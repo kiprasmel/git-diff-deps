@@ -6,6 +6,9 @@
 	"typings": "dist/index.d.ts",
 	"author": "Kipras Melnikovas <kipras@kipras.org> (https://kipras.org/)",
 	"license": "MIT",
+	"scripts": {
+		"build": "yarn tsc -b"
+	},
 	"devDependencies": {
 		"typescript": "^3.8.3"
 	}
