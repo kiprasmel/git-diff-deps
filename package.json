@@ -1,0 +1,9 @@
+{
+	"name": "git-diff-order",
+	"version": "0.0.0",
+	"description": "Git diff dependency order",
+	"main": "dist/index.js",
+	"typings": "dist/index.d.ts",
+  "author": "Kipras Melnikovas <kipras@kipras.org> (https://kipras.org/)",
+  "license": "MIT"
+}
